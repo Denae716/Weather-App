@@ -1,0 +1,16 @@
+.zip input {
+    border: none;
+    outline: 0;
+    
+}
+
+.zip {
+    border: solid 1px #ccc;
+    position: relative;
+}
+
+label {
+    position:absolute;
+    padding-left: 35px;
+    color: lightgrey
+}
